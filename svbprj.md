@@ -55,6 +55,6 @@ Implement the TODO stubs in these modules (run `cargo test` to check progress):
 
 ## Conventions
 
-- Commits use: `Co-Contributed-By: Claude Opus 4.6 <noreply@anthropic.com>`
+- Commits use: `Co-Contributed-By: CC Opus 4.6 <noreply@anthropic.com>`
 - Follow RISCVML patterns: SQLite for telemetry, embedded-hal traits for hardware
 - Diagrams go in `docs_about__rs_riscvml_embed__solar_cntrl__free/` directory
